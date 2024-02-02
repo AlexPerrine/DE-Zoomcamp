@@ -2,6 +2,8 @@
 
 This is a self paced free course to teach the basics of data engineering as well as some of mainstream tools and some tools that are new to the world. The course has 6 different modules and a self project at the end of the course. 
 
+img src='arch_v3_workshops.jpg' alt="Data Engineering Zoomcamp course paath" width=auto height="500"></a>
+
 ### Module 1: Introduction, Containerization and Infrastructure as Code
 This was a 2 week module, mostly because of introductions to the course, environment setup, homework and a mini project. I learned the basics of setting up a Docker container with Python injecting data into a PostgreSQL. To analyze the data in the database, I used docker compose to get all the data into the database and into the pgAdmin GUI.
 
