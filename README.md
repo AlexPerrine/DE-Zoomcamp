@@ -19,7 +19,7 @@ Topics I learned:
     - While loops and exception handling.
 
 ### Module 2: Orchestration: MageAi
-Data orchestration is automating the process of taking dataa from many different stored locations (cloud, warehouse, csv file, etc.) and performing transformations to make it availible to the end user for analysis.
+Data orchestration is automating the process of taking data from many different stored locations (cloud, warehouse, csv file, etc.) and performing transformations to make it available to the end user for analysis.
 
 <a href="https://www.mage.ai/">Mage</a> is a modern open source data pipeline tool for transforming and integration data. It allows you to integrate and synchronize data, build real-time and batch pipelines and run, monitor and orchestrate pipelines. As what their website says it "gives your data team magical powers." I felt like I was back in college playing my wizard character in D&D from the powers given.
 
